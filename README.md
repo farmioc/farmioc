@@ -1,3 +1,3 @@
-# Farmioc 
+## Farmioc 
 ### Global Agriculture Data Company
-[Visit Website](htts://farmioc.com)
+[Visit Website](https://farmioc.com/)
